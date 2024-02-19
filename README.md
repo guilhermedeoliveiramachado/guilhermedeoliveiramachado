@@ -1,16 +1,12 @@
-### Hi there 👋
+### Olá, sou Guilherme de Oliveira Machado
 
-<!--
-**guilhermeomachadotech/guilhermeomachadotech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Sou estudante da ETEC de Guaianazes-SEDE em Desenvolvimento de Sistemas.
+- 🌱 Estou aprendendo Javascript.
+- 😄 Pronouns: ele/dele.
+- 😁 Gostos: videogames, programação e animação.
+<div>
+  <a href="https://github.com/guilhermemachadotech">
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeomachadotech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeomachadotech&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
