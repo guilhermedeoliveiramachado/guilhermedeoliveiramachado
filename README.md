@@ -1,8 +1,8 @@
 <h1 style="color: blue">Olá, sou Guilherme de Oliveira Machado</h1>
 
           
-- 🔭 Sou estudante da ETEC de Guaianazes-SEDE em Desenvolvimento de Sistemas.
-- 🌱 Estou aprendendo Javascript.
+- 🔭 Sou técnico em Análise e Desenvolvimento de Sistemas formado na Etec de Guaianazes.
+- 🌱 Estou estudando Tecnólogo em Análise e Desenvolvimento de Sistemas, na Fatec de Zona Leste.
 - 😄 Pronomes: ele/dele.
 - 😁 Gostos: videogames, programação e animação.
 <div>
